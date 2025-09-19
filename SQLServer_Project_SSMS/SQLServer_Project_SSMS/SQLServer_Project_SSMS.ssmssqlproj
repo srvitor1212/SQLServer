@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="SQLServer_Project_SSMS">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-2QDU3OV\SQLEXPRESSMANUAL:DESKTOP-2QDU3OV\Vitor">
+          <Created>2025-09-19T00:01:43.6525984-03:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-2QDU3OV\SQLEXPRESSMANUAL</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>15</LoginTimeout>
+          <TrustServerCertificate>True</TrustServerCertificate>
+          <EncryptionOption>True</EncryptionOption>
+          <ExecutionTimeout>30</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>SQL Server Management Studio</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="GO.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>GO.sql</FullPath>
+        </FileNode>
+        <FileNode Name="LIKE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2QDU3OV\SQLEXPRESSMANUAL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2QDU3OV\SQLEXPRESSMANUAL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>LIKE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TRY CATCH.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2QDU3OV\SQLEXPRESSMANUAL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2QDU3OV\SQLEXPRESSMANUAL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>TRY CATCH.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
