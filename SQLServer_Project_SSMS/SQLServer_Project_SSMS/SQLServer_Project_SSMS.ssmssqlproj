@@ -21,11 +21,23 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
+        <FileNode Name="Concatenar Strings.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2QDU3OV\SQLEXPRESSMANUAL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2QDU3OV\SQLEXPRESSMANUAL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Concatenar Strings.sql</FullPath>
+        </FileNode>
         <FileNode Name="GO.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2QDU3OV\SQLEXPRESSMANUAL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2QDU3OV\SQLEXPRESSMANUAL</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>GO.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ISNULL, NULLIF e COALESCE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2QDU3OV\SQLEXPRESSMANUAL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2QDU3OV\SQLEXPRESSMANUAL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ISNULL, NULLIF e COALESCE.sql</FullPath>
         </FileNode>
         <FileNode Name="LIKE.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2QDU3OV\SQLEXPRESSMANUAL:True</AssociatedConnectionMoniker>
