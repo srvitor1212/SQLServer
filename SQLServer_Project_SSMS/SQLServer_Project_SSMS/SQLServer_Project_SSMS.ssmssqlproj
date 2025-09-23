@@ -27,11 +27,23 @@
           <AssociatedConnUserName />
           <FullPath>Concatenar Strings.sql</FullPath>
         </FileNode>
+        <FileNode Name="CUBE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2QDU3OV\SQLEXPRESSMANUAL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2QDU3OV\SQLEXPRESSMANUAL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>CUBE.sql</FullPath>
+        </FileNode>
         <FileNode Name="GO.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2QDU3OV\SQLEXPRESSMANUAL:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-2QDU3OV\SQLEXPRESSMANUAL</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>GO.sql</FullPath>
+        </FileNode>
+        <FileNode Name="GROUPING SETS.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2QDU3OV\SQLEXPRESSMANUAL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2QDU3OV\SQLEXPRESSMANUAL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>GROUPING SETS.sql</FullPath>
         </FileNode>
         <FileNode Name="ISNULL, NULLIF e COALESCE.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2QDU3OV\SQLEXPRESSMANUAL:True</AssociatedConnectionMoniker>
@@ -44,6 +56,12 @@
           <AssociatedConnSrvName>DESKTOP-2QDU3OV\SQLEXPRESSMANUAL</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>LIKE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ROLLUP.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2QDU3OV\SQLEXPRESSMANUAL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2QDU3OV\SQLEXPRESSMANUAL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ROLLUP.sql</FullPath>
         </FileNode>
         <FileNode Name="TRY CATCH.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2QDU3OV\SQLEXPRESSMANUAL:True</AssociatedConnectionMoniker>
