@@ -57,11 +57,29 @@
           <AssociatedConnUserName />
           <FullPath>LIKE.sql</FullPath>
         </FileNode>
+        <FileNode Name="PIVOT.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2QDU3OV\SQLEXPRESSMANUAL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2QDU3OV\SQLEXPRESSMANUAL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>PIVOT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="RANK, ROW_NUMBER e NTILE.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>RANK, ROW_NUMBER e NTILE.sql</FullPath>
+        </FileNode>
         <FileNode Name="ROLLUP.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2QDU3OV\SQLEXPRESSMANUAL:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-2QDU3OV\SQLEXPRESSMANUAL</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>ROLLUP.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLQuery1.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2QDU3OV\SQLEXPRESSMANUAL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2QDU3OV\SQLEXPRESSMANUAL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLQuery1.sql</FullPath>
         </FileNode>
         <FileNode Name="TRY CATCH.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2QDU3OV\SQLEXPRESSMANUAL:True</AssociatedConnectionMoniker>
