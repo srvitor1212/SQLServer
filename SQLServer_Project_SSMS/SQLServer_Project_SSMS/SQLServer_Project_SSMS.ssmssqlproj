@@ -21,6 +21,24 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
+        <FileNode Name="1-Tabela Temporária.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2QDU3OV\SQLEXPRESSMANUAL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2QDU3OV\SQLEXPRESSMANUAL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1-Tabela Temporária.sql</FullPath>
+        </FileNode>
+        <FileNode Name="2-CTEs.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2QDU3OV\SQLEXPRESSMANUAL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2QDU3OV\SQLEXPRESSMANUAL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>2-CTEs.sql</FullPath>
+        </FileNode>
+        <FileNode Name="ANY, ALL, SOME.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2QDU3OV\SQLEXPRESSMANUAL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2QDU3OV\SQLEXPRESSMANUAL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>ANY, ALL, SOME.sql</FullPath>
+        </FileNode>
         <FileNode Name="Concatenar Strings.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2QDU3OV\SQLEXPRESSMANUAL:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-2QDU3OV\SQLEXPRESSMANUAL</AssociatedConnSrvName>
@@ -75,17 +93,29 @@
           <AssociatedConnUserName />
           <FullPath>ROLLUP.sql</FullPath>
         </FileNode>
-        <FileNode Name="SQLQuery1.sql">
+        <FileNode Name="SUB-QUERY.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2QDU3OV\SQLEXPRESSMANUAL:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-2QDU3OV\SQLEXPRESSMANUAL</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>SQLQuery1.sql</FullPath>
+          <FullPath>SUB-QUERY.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TOP, TABLESAMBLE.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2QDU3OV\SQLEXPRESSMANUAL:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-2QDU3OV\SQLEXPRESSMANUAL</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>TOP, TABLESAMBLE.sql</FullPath>
         </FileNode>
         <FileNode Name="TRY CATCH.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-2QDU3OV\SQLEXPRESSMANUAL:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-2QDU3OV\SQLEXPRESSMANUAL</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>TRY CATCH.sql</FullPath>
+        </FileNode>
+        <FileNode Name="UNION, EXCEPT, INTERSECT.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>UNION, EXCEPT, INTERSECT.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>

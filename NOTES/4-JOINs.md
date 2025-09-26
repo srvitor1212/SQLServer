@@ -1,3 +1,18 @@
+# Resumo
+
+- INNER JOIN: só correspondências.
+
+- LEFT JOIN: todos da esquerda + correspondências.
+
+- RIGHT JOIN: todos da direita + correspondências.
+
+- FULL JOIN: todos de ambos os lados.
+
+- CROSS JOIN: todas as combinações.
+
+- SELF JOIN: join da tabela com ela mesma.
+
+
 ## JOIN (ou INNER JOIN)
 
 - Retorna apenas as linhas que têm correspondência em ambas as tabelas.
